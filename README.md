@@ -6,4 +6,4 @@ This notebook help you to :
 
 🏗️ Applying the workflow using NLTK !
 
-🚀 Customise  NER for Maeritim to recognize Maritim terms 
+🚀 Customise  NER  on Maritim terms 
